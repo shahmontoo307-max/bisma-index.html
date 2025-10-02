@@ -1,1 +1,2 @@
-
+git add images/
+git commit -m "Add images folder with generated images"
